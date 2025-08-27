@@ -8,7 +8,8 @@ int main ()
     // cin>> Name;
     getline(cin,Name);
     
-    cout<< " Welcome mr./mrs."<< Name ;
+    cout<< " Welcome mr./mrs."<< Name << endl;
+     
     cout<< endl;
      
     
